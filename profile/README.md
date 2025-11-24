@@ -1,6 +1,3 @@
-基于您的项目信息和官网内容，我为您准备了一个更加专业和完整的组织介绍 README：
-
-```markdown
 # KSPeeder Docker 镜像加速专家
 
 ## 🚀 Docker 镜像加速专家
@@ -71,7 +68,6 @@ docker-compose -f kspeeder-store/docker-compose.yml up -d
                │     用户终端设备      │
                │   (30MB/s 极速下载)  │
                └─────────────────────┘
-```
 
 ## 🤝 参与贡献
 
